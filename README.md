@@ -23,3 +23,4 @@ QQ一直响却从来没人聊天，<br/>
 
 好了，很高兴你能看到现在<br/>
 那么后会有期<br/>
+In 2021, I made 608 contributions and modified 8,000 lines of code. Check out my GitHub Wrapped and create your own at githubtrends.io/wrapped/csfwff
